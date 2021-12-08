@@ -12,3 +12,22 @@ Run PCA on user_history data, observe the pattern of the first two PCA features 
 ### 3) K-means clustering
 
 Divide the data into 3 clusters as the conclusion of the 2nd part.
+
+### 4) PCA on clusters
+
+Since the singular value analysis for all three clusters showed that the first three principal component revealed the most information, this part of code processes out the first three principal features for each clusters
+
+### 5) Put the processed clusters back in place
+
+Putting the three clusters into one matrix as the original order
+
+### 6) Fill in NAs in the Ratings matrix
+
+Replace NA entries with in the ratings matrix as 0
+
+### 7) Find duplicate users and fitting a regression model on full features
+
+Fit a regression model on the full features for the 3000 users with rating data available
+
+### 8) Matrix Completion via Gradient Descent
+
