@@ -31,3 +31,8 @@ Fit a regression model on the full features for the 3000 users with rating data 
 
 ### 8) Matrix Completion via Gradient Descent
 
+Estimating the unfilled entries (0) by gradient descent iterations
+
+### 9) Prediction
+
+Predict the ratings for the rest 1500 users and output as a csv files
