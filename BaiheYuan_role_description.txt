@@ -1,0 +1,9 @@
+
+
+Baihe: K-means clustering on the first PCA, PCA on clusters\
+\
+Jacqueline: PCA on user history data, readme file, debug PCA and PCA on clusters\
+\
+Gretchen: PCA on user history data, K-means clustering, debug, final report\
+\
+Disheng, Siyuan:  rating prediction (linear regression, matrix completion, gradient descent, finding mean square error)
