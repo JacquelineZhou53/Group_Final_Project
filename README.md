@@ -33,6 +33,10 @@ Fit a regression model on the full features for the 3000 users with rating data 
 
 Estimating the unfilled entries (0) by gradient descent iterations
 
-### 9) Prediction
+### 9) Linear regression with PCA features via Stochastic Gradient Descent
+
+Find beta_hat through Stochastic Graident Descent
+
+### 10) Prediction
 
 Predict the ratings for the rest 1500 users and output as a csv file "prediction_of_ratings.csv"
