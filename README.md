@@ -35,4 +35,4 @@ Estimating the unfilled entries (0) by gradient descent iterations
 
 ### 9) Prediction
 
-Predict the ratings for the rest 1500 users and output as a csv files
+Predict the ratings for the rest 1500 users and output as a csv file "prediction_of_ratings.csv"

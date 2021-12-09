@@ -1,0 +1,7 @@
+Myself: PCA, debug(PCA on clusters), Put clusters back in place, readme
+
+Gretchen: PCA, k-means, debug(PCA on clusters), write report
+
+Baihe: k-means, PCA on clusters
+
+Siyuan&Disheng: linear regression, prediction
