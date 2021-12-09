@@ -1,0 +1,4 @@
+Disheng: I contributed to build up the dataset for those users having ratings. 
+Then I build up the matrix completion model to predict the missing entries. 
+After that I revised the model for linear regression by adding the intercept which if not added the regression result would be incorrect. 
+Lastly, I constructed the final prediction dataset and transformed it into cvs file.
