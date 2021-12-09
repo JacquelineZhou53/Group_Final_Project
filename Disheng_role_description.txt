@@ -2,3 +2,15 @@ Disheng: I contributed to build up the dataset for those users having ratings.
 Then I build up the matrix completion model to predict the missing entries. 
 After that I revised the model for linear regression by adding the intercept which if not added the regression result would be incorrect. 
 Lastly, I constructed the final prediction dataset and transformed it into cvs file.
+
+Jacque: She did made PCA clusters and constructed the PCA features dataset.
+Also, she checked errors and language of coding. She wrote Readme
+
+
+Gretchen: She did PCA clusters and k-means. She also found the eigenvalues that are most significant.
+She also wrote the report for our project.
+
+Baihe: She also contributed to compute PCA and k-means preparing the dataset for linear regression.
+
+Siyuan: He contributed to run linear regression making plots, checked errors and revised language,
+and updated our project.
