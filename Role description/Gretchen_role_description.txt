@@ -1,0 +1,7 @@
+Jacqueline, Baihe, and I worked on the first part of the project, looking at the user_history data set.
+We worked on visualizing the data using PCA, determine the number of clusters.
+Jacqueline also helped clean up the code and write the README.
+I also wrote up our report.
+
+Disheng and Siyuan worked on the second part of the data where they created the matrix completion code and the final predictions.
+They also helped clean up the code
